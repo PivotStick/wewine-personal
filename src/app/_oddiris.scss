@@ -1,0 +1,9 @@
+#root {
+    min-height: 100vh;
+    
+    display: grid;
+    grid-template-rows: max-content 1fr;
+}
+
+@import "./c-header/header";
+@import "./c-main/main";
