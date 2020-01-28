@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/wewine-personal/static/css/main.233c2266.chunk.css",
+    "main.js": "/wewine-personal/static/js/main.893ed8de.chunk.js",
+    "main.js.map": "/wewine-personal/static/js/main.893ed8de.chunk.js.map",
+    "runtime-main.js": "/wewine-personal/static/js/runtime-main.e4711481.js",
+    "runtime-main.js.map": "/wewine-personal/static/js/runtime-main.e4711481.js.map",
+    "static/js/2.3f8c38cd.chunk.js": "/wewine-personal/static/js/2.3f8c38cd.chunk.js",
+    "static/js/2.3f8c38cd.chunk.js.map": "/wewine-personal/static/js/2.3f8c38cd.chunk.js.map",
+    "index.html": "/wewine-personal/index.html",
+    "precache-manifest.ca778744945384b4f32adf1b0d91c683.js": "/wewine-personal/precache-manifest.ca778744945384b4f32adf1b0d91c683.js",
+    "service-worker.js": "/wewine-personal/service-worker.js",
+    "static/css/main.233c2266.chunk.css.map": "/wewine-personal/static/css/main.233c2266.chunk.css.map",
+    "static/js/2.3f8c38cd.chunk.js.LICENSE": "/wewine-personal/static/js/2.3f8c38cd.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e4711481.js",
+    "static/js/2.3f8c38cd.chunk.js",
+    "static/css/main.233c2266.chunk.css",
+    "static/js/main.893ed8de.chunk.js"
+  ]
+}
